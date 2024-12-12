@@ -65,7 +65,6 @@ The platform enables anyone to launch community-owned tapps through a systematic
 - Concept development assistance
 - User story generation
 - Technical architecture recommendations
-- Tokenomics modeling
 - Roadmap creation
 
 ### Project Dashboard
