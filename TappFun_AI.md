@@ -3,6 +3,10 @@
 
 **TappFun.AI** is,Smart Layer LaunchPad 2.0, a **Web3 launch platform** designed to help individuals and teams transform their ideas into **community-owned decentralized applications (tapps)** through a structured and transparent process. It combines **AI-assisted planning**, **bonding curve mechanics**, and a **multi-tapp approach** to ensure fair and sustainable project launches.
 
+**TappFun.AI** is an asset issuing and trading platform for investors to find Low cap, high potential, small amounts per opportunity, but countless opportunities to invest.
+Banking the unbanked.
+Fragmented and democratized financial needs, along with matching “small but beautiful” investment opportunities, might be natural areas for blockchain to excel.
+
 ## Key Features
 
 1. **AI-Assisted Planning**: 
